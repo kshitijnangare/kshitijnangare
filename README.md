@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Soham+Chaudhari+%F0%9F%91%8B;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer" alt="Typing GIF" />
+  <img src="heading.gif" alt="Typing GIF" />
   
   <p>
     <a href="https://www.linkedin.com/in/kshitijnangare/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
