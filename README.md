@@ -1,10 +1,10 @@
 <div align="center">
   <img src="heading.gif" alt="Typing GIF" />
   <br />
-  <div align="center">
+  <!-- <div align="center">
     <h1>KSHITIJ NANGARE</h1>
   </div>
-  
+   -->
   <p>
     <a href="https://www.linkedin.com/in/kshitijnangare/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
     <a href="https://kshitij-nangare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
