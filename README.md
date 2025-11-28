@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>KSHITIJ NANGARE</h1>
-</div>
-
-<div align="center">
   <img src="heading.gif" alt="Typing GIF" />
+  <br />
+  <div align="center">
+    <h1>KSHITIJ NANGARE</h1>
+  </div>
   
   <p>
     <a href="https://www.linkedin.com/in/kshitijnangare/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
