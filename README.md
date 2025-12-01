@@ -27,8 +27,6 @@
 - 🌱 I'm currently learning machine learning techniques and integrating ML models into applications
 - 💞️ I'm looking to collaborate on projects related to AI/ML, data analysis and web development
 - 📫 How to reach me: kshitijnangarework@gmail.com
-- ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐞
-
 <br>
 
 <div align="center">
