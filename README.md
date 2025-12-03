@@ -1,6 +1,7 @@
 <div align="center">
   <img src="heading.gif" alt="Typing GIF" />
   <br />
+  
   <!-- <div align="center">
     <h1>KSHITIJ NANGARE</h1>
   </div>
