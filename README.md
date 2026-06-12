@@ -170,7 +170,7 @@ When I'm not shipping code, I'm leading treks across Maharashtra 🏔️ or orga
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kshitijnangare&theme=merko&border_radius=6&mode=weekly" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijnangare&theme=merko&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijnangare&theme=merko" alt="GitHub Contribution Stats">
 
