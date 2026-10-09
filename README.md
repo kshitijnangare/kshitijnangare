@@ -23,7 +23,7 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a **Final Year IT student @ VESIT Mumbai** with a **9.55 SGPA** and **4 internships** under my belt — from a Data Science role at an AI startup to shipping production-ready CRM/ERP systems at a SaaS company.
+I'm a **Final Year IT student @ VESIT Mumbai** with a **9.62 SGPA** and **4 internships** under my belt — from a Data Science role at an AI startup to shipping production-ready CRM/ERP systems at a SaaS company.
 
 I build things that actually run in production: apps used by **700+ students**, booking systems handling **1,000+ transactions**, CRMs serving **1,500+ users**.
 
