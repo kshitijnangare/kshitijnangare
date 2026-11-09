@@ -252,7 +252,6 @@ Spearheaded 3 annual hackathons · 60+ attendees · ₹70,000 budget managed
 </div> -->
 
 <!-- --- -->
-
 ## 🐍 Contribution Snake
 
 <div align="center">
