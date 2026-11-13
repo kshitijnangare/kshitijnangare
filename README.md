@@ -152,7 +152,7 @@ When I'm not shipping code, I'm leading treks across Maharashtra 🏔️ or orga
 <div align="center">
 
 <a href="https://leetcode.com/kshitijnangare"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/kshitijnangare"><img src="https://img.shields.io/badge/CodeChef%20⭐⭐%201550+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/nangarekshitij"><img src="https://img.shields.io/badge/CodeChef%20⭐⭐⭐%201600+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/kshitijnangare"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 <br/><br/>
@@ -162,7 +162,7 @@ When I'm not shipping code, I'm leading treks across Maharashtra 🏔️ or orga
 
 </div>
 
-> 💪 **450+ DSA problems solved** across platforms | CodeChef **2⭐ (1550+ rating)**
+> 💪 **1200+ DSA problems solved** across platforms | CodeChef **3⭐ (1600+ rating)**
 
 ---
 
